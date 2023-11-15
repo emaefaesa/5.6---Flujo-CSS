@@ -1,0 +1,47 @@
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(72, 138, 214);
+}
+
+div {
+    color: white;
+    border: 1px solid black;
+    text-align: end;
+    display: block;
+}
+
+h2 {
+    border: 1px solid;
+    margin-top: -20px;
+}
+
+h1 {
+    border: 1px solid;
+}
+
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 6px;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}

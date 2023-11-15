@@ -1,0 +1,41 @@
+body {
+    /*width: 900px;*/
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: blueviolet;
+}
+
+main {
+    display: flex;
+    align-items: center;
+justify-content: space-around;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+/*
+* {
+    border: 1px solid;
+}
+*/
+
+section {
+    padding: 50px;
+    color: rgb(192, 151, 230);
+}
+
+aside {
+    background-color: rgb(170, 108, 228);
+    border-radius: 8px;
+    padding: 30px;
+    
+}
+
+li, h3 {
+    list-style: none;
+    color: rgb(221, 202, 240);
+}
+
+
